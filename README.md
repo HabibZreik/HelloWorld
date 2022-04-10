@@ -14,17 +14,20 @@ My Hello World program to start learning GitHub
 ## Education
 
 ### Damascus Uni
+Mechanical Engineering ==2020==
 
 ### UoPeople
+Computer Science ==2020-present==
 
-### SVu
+### SVU
 ---
-'#include<stdio.h>'
----
+`#include<stdio.h>`
+
 1. This
 2. That
 3. Haha
 
-*this is italic*\n
+*this is italic* 
+
 **But this is bold**
 What? Why
