@@ -11,13 +11,13 @@ My Hello World program to start learning GitHub
 
 ### Mechanical Engineering
 
-##Education
+## Education
 
-###Damascus Uni
+### Damascus Uni
 
-###UoPeople
+### UoPeople
 
-###SVu
+### SVu
 ---
 '#include<stdio.h>'
 ---
@@ -25,6 +25,6 @@ My Hello World program to start learning GitHub
 2. That
 3. Haha
 
-*this is italic*
+*this is italic*\n
 **But this is bold**
 What? Why
